@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1580541832626-2a7131ee809f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2077&q=80");
+    background-size: cover;
+    font-family:  BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 85px;
+    font-size: 25px;
+    text-shadow: 0px -2px 1px black;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    height: 100px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+
+#increment-btn {
+    background: black;
+}
+
+#save-btn {
+    background: gray;
+}
+
+div {
+    max-width: 1000px;
+}
